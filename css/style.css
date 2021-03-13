@@ -1,0 +1,162 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  }
+
+.heroBackground {
+  background-image: url("../images/heroBackground.png");
+  background-size: cover;
+  margin: 0%;
+}
+.navBar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+}
+
+.logoArea {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 750px
+}
+
+.logo {
+  height: 75%;
+  width: auto;
+}
+
+.socialMedia {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px; 
+}
+
+.about {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%
+    height: auto;
+    padding: 5%;
+}
+
+.footer {
+  display: flex;
+  background: #D9ADAC;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+}
+
+.navButtons a {
+  padding: 20px 40px;
+  font-family: 'Poppins', sans-serif;
+  text-decoration: none;
+  color: black;
+}
+
+.navButtons a:hover {
+  color: #F69F8E;
+}
+
+
+/* Navigation Styles 
+.nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #D9ADAC;
+  height: 100px;
+  }
+
+.nav a {
+  padding: 20px 40px;
+  font-family: 'Poppins', sans-serif;
+  text-decoration: none;
+  }
+
+/* Hero Styles
+
+#heroGrid {
+  background-image: url(../images/heroBackground.png);
+  background-size: cover;
+  margin: 0%;
+  min-height: 500px;
+  height: 100vh;
+}
+
+.headline {
+  max-width: 75%;
+  max-height: 75%;
+}
+
+/*
+#headline {
+  background-color: white;
+  border-radius: 50%;
+  width: 350px;
+  height: 350px;
+  position: absolute;
+  right: 75px;
+  top: 75px;
+  padding: 25px;
+  z-index: 100;
+}
+
+
+h1 {
+  font-size: 60px;
+  align-items: center;
+  justify-content: center;
+}
+
+h2 {
+  font-size: 30px;
+  align-items: center;
+}
+
+.heroGridArea {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  align-items: center;
+  display: flex;
+  position: relative;
+}
+
+/* Footer Styles 
+
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #D9ADAC;
+  height: 100px;
+}
+.footer a {
+  padding: 20px 40px;
+  font-family: 'Poppins', sans-serif;
+  text-decoration: none;
+}
+.about {
+  color: black;
+}
+.about:hover {
+  color:white;
+}
+.work {
+  color: black;
+}
+.work:hover {
+  color:white;
+}
+.contact {
+  color: black;
+}
+.contact:hover {
+  color:white;
+}
+
+*/
